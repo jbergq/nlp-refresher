@@ -1,0 +1,8 @@
+transformers
+evaluate
+datasets
+requests
+pandas
+sklearn
+accelerate
+py3Dmol
